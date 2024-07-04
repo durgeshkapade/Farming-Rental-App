@@ -33,4 +33,4 @@ The Farming Equipment Rental App is a web platform designed to connect farmers l
 
    ```bash
    git clone https://github.com/your-username/farming-equipment-rental-app.git
-   cd farming-equipment-rental-app
+   cd Farming-Rental-App
